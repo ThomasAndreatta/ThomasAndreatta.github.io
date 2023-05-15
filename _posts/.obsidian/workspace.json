@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Buffer Overflow 101.md",
+                "file": "Lessons/2023-04-14-Buffer-Overflow-101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Buffer Overflow 101.md",
+                "file": "Lessons/2023-04-14-Buffer-Overflow-101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/Buffer Overflow 101.md",
+                "file": "Lessons/2023-04-14-Buffer-Overflow-101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Buffer Overflow 101.md"
+                "file": "Lessons/2023-04-14-Buffer-Overflow-101.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "354d64ee02bbff9d",
+  "active": "ff0c5a8fc69715d3",
   "lastOpenFiles": [
     "posts/2023-05-15-PENGpt-automated-analysis.md",
-    "Lessons/Buffer Overflow 101.md",
+    "Lessons/2023-04-14-Buffer-Overflow-101.md",
     "Challenges/Reversing/Behind the scene.md",
     "posts",
     "Pasted image 20230419214243.png",
