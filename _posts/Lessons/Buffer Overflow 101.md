@@ -1,4 +1,13 @@
-
+---
+title:   Buffer Overflow 101
+classes: wide
+header:
+  teaser: /img/postcover/cover2.png
+ribbon: blue
+categories:
+  - Lesson
+toc: true
+---
 
 # Protostar
 

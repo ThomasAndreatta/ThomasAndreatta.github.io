@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware-Analysis/2023-05-15-PENGpt-automated-analysis.md",
+                "file": "Lessons/Buffer Overflow 101.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware-Analysis/2023-05-15-PENGpt-automated-analysis.md",
+                "file": "Lessons/Buffer Overflow 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware-Analysis/2023-05-15-PENGpt-automated-analysis.md",
+                "file": "Lessons/Buffer Overflow 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware-Analysis/2023-05-15-PENGpt-automated-analysis.md"
+                "file": "Lessons/Buffer Overflow 101.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "354d64ee02bbff9d",
   "lastOpenFiles": [
-    "Pasted image 20230419214243.png",
-    "Malware-Analysis/2023-05-15-PENGpt-automated-analysis.md",
+    "posts/2023-05-15-PENGpt-automated-analysis.md",
+    "Lessons/Buffer Overflow 101.md",
     "Challenges/Reversing/Behind the scene.md",
+    "posts",
+    "Pasted image 20230419214243.png",
     "Pasted image 20230419214302.png",
     "Pasted image 20230419214254.png",
-    "Lessons/Buffer Overflow 101.md",
     "Challenges/Reversing",
     "Challenges"
   ]
