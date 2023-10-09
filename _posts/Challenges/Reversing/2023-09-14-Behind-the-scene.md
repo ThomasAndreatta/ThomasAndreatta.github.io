@@ -1,3 +1,14 @@
+---
+title:   blomp
+classes: wide
+header:
+  teaser: /img/postcover/cover2.png
+ribbon: blue
+categories:
+  - Lesson
+toc: true
+---
+
 ![[Pasted image 20230419214243.png]]
 `objdump -s ./behindthescenes`
 
