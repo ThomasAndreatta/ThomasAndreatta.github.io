@@ -2,7 +2,7 @@
 title:   PENGpt automated penetration testing
 classes: wide
 header:
-  teaser: /img/postcover/cover1.png
+  teaser: /img/postcover/earth.png
 ribbon: green
 categories:
   - Post
