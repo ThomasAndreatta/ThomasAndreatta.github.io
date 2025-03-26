@@ -114,28 +114,28 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 136px;
-  height: 136px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 110px;
-    border-radius: 50%;
-    
+   .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 136px;
+    height: 136px;
+  
     @include breakpoint($large) {
-      //padding: 5px;
-      //border: 1px solid $border-color;
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  
+    img {
+      max-width: 130px; /* Changed from 110px to 130px */
+      border-radius: 10px;
+      
+      @include breakpoint($large) {
+        //padding: 5px;
+        //border: 1px solid $border-color;
+      }
     }
   }
-}
 
 .author__content {
   display: table-cell;
