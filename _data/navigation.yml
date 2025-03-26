@@ -2,11 +2,11 @@
 main:
    - title: "Malware Analysis"
      url: /categories/#Malware-Analysis
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Sample Posts"
+     url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "Sitemap"
+     url: /sitemap/
   # - title: "Quick-Start Guide"
   # url: https://google.com

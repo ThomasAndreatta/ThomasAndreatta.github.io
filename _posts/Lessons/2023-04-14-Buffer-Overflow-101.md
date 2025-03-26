@@ -6,6 +6,7 @@ header:
 ribbon: blue
 categories:
   - Lesson
+  - TestCategory
 toc: true
 ---
 
