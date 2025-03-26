@@ -1,13 +1,11 @@
 # main links
 main:
-   - title: "Malware Analysis"
-     url: /categories/#Malware-Analysis
-   - title: "Sample Posts"
-     url: /categories/#Post
-     description: "test description"
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-   - title: "Sitemap"
-     url: /
-  # - title: "Quick-Start Guide"
-  # url: https://google.com
+   - title: "Security stuff"
+     url: /categories/#security
+     decsription: "CyberSecurity things"
+   - title: "Tech Rant"
+     url: /categories/#techrant
+     decsription: "I like to rant about stuff"
+   - title: "Post"
+     url: /categories/#post
+     description: "All my uncategorized posts"
