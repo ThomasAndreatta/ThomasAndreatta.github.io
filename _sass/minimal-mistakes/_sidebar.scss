@@ -172,6 +172,7 @@
 
 .author__bio {
   margin: 0;
+  color: #d4a11f; /* Dark gold color */
 
   @include breakpoint($large) {
     margin-top: 10px;
