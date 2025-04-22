@@ -1,11 +1,12 @@
 # main links
 main:
-   - title: "Security stuff"
-     url: /categories/#security
-     decsription: "CyberSecurity things"
-   - title: "Tech Rant"
-     url: /categories/#techrant
-     decsription: "I like to rant about stuff"
-   - title: "Post"
-     url: /categories/#post
-     description: "All my uncategorized posts"
+   - title: "Projects"
+     url: /categories/#projects
+     description: "All my (major) projects"
+  #  - title: "Security stuff"
+  #    url: /categories/#security
+  #    decsription: "CyberSecurity things"
+  #  - title: "Tech Rant"
+  #    url: /categories/#techrant
+  #    decsription: "I like to rant about stuff"
+   
